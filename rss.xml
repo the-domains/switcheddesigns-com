@@ -4,21 +4,21 @@
         <description><![CDATA[switcheddesigns.com]]></description>
         <link>https://thegrid.ai/switcheddesigns-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 01:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 01:49:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/switcheddesigns-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/254f8d453fd17e9f76b974e858d2f729/croprotate.jpg?cropheight=497&cropwidth=336&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee981213-cf40-4751-b918-b9e97dfe57cc.jpg&x=99&y=12" alt="" title="">]]></description>
+            <link>https://thegrid.ai/switcheddesigns-com/switched-designs-test/index.html</link>
+            <guid isPermaLink="false">8cfeb1ea-8901-4217-b9c6-be168a46ca4a</guid>
+            <pubDate>Fri, 08 Jul 2016 01:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a22012bc-c851-4e1f-92b6-9ac59c4182d7.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/switcheddesigns-com/switched-post-2/index.html</link>
             <guid isPermaLink="false">afeddc90-daab-4347-a87a-841c57c27438</guid>
             <pubDate>Fri, 08 Jul 2016 01:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/254f8d453fd17e9f76b974e858d2f729/croprotate.jpg?cropheight=497&cropwidth=336&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee981213-cf40-4751-b918-b9e97dfe57cc.jpg&x=99&y=12" alt="" title="">]]></description>
-            <link>https://thegrid.ai/switcheddesigns-com/switched-designs-test/index.html</link>
-            <guid isPermaLink="false">8cfeb1ea-8901-4217-b9c6-be168a46ca4a</guid>
-            <pubDate>Fri, 08 Jul 2016 01:44:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
