@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[switcheddesigns.com]]></title>
         <description><![CDATA[switcheddesigns.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/switcheddesigns-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 00:53:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 00:57:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/switcheddesigns-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Switched Designs test</p>]]></description>
-            <link>undefinedswitched-designs-test/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee981213-cf40-4751-b918-b9e97dfe57cc.jpg">]]></description>
+            <link>https://thegrid.ai/switcheddesigns-com/switched-designs-test/index.html</link>
             <guid isPermaLink="false">8cfeb1ea-8901-4217-b9c6-be168a46ca4a</guid>
-            <pubDate>Fri, 08 Jul 2016 00:53:41 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2016 00:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
