@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Switched post 2
-datePublished: '2016-07-08T01:42:03.162Z'
-dateModified: '2016-07-08T01:41:57.756Z'
+datePublished: '2016-07-08T01:44:16.320Z'
+dateModified: '2016-07-08T01:43:11.043Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-08-switched-post-2.md
 authors: []
 publisher: null
