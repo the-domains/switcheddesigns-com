@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Cheburashka
-datePublished: '2016-07-08T01:47:21.952Z'
-dateModified: '2016-07-08T01:47:11.229Z'
+datePublished: '2016-07-08T01:48:04.218Z'
+dateModified: '2016-07-08T01:47:59.591Z'
 title: ''
 author:
   - name: ''
