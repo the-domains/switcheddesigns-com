@@ -1,0 +1,28 @@
+name: switcheddesigns.com
+favicon: null
+layout_spectrum: 0.4670145900454372
+typography_spectrum: 0.2846267940476537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8666086825542152
+  lightness: 0.014511721907183528
+  saturation: 0.873709820676595
+  rhythmicContrast: 0.8691263198852539
+purpose: []
